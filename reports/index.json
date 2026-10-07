@@ -1,119 +1,74 @@
-{
-  "colorPalette": "electric-blue",
-  "glassSurfaces": false,
-  "glassmorphic": false,
-  "axiDesign": false,
-  "entries": [
-    {
-      "id": "20261006-210638-sc0o",
-      "title": "Perfect D Vadium, Warsworn Immortal",
-      "commanders": [
-        "Perfect D Vadium",
-        "Warsworn Immortal"
-      ],
-      "guild": {
-        "id": "DFCC36EA-31D3-EB11-81AC-95DFE50946EB",
-        "name": "Immortals of the Mîsts",
-        "tag": "IoM"
-      },
-      "dateStart": "2026-10-07T01:06:38.000Z",
-      "dateEnd": "2026-10-07T03:41:54.842Z",
-      "dateLabel": "10/6/2026, 9:06:38 PM - 10/6/2026, 11:41:54 PM",
-      "url": "https://dj70oy70-cpu.github.io/Wvw/?report=20261006-210638-sc0o",
-      "summary": {
-        "borderlandsPct": 0.4782608695652174,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 24,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 20,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 2,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 21,
-        "avgEnemySize": 38
-      }
+[
+  {
+    "id": "20261006-210638-sc0o",
+    "title": "Perfect D Vadium, Warsworn Immortal",
+    "commanders": [
+      "Perfect D Vadium",
+      "Warsworn Immortal"
+    ],
+    "guild": {
+      "id": "DFCC36EA-31D3-EB11-81AC-95DFE50946EB",
+      "name": "Immortals of the Mîsts",
+      "tag": "IoM"
     },
-    {
-      "id": "20261006-210638-dxpc",
-      "title": "Perfect D Vadium, Warsworn Immortal",
-      "commanders": [
-        "Perfect D Vadium",
-        "Warsworn Immortal"
+    "dateStart": "2026-10-07T01:06:38.000Z",
+    "dateEnd": "2026-10-07T03:41:54.842Z",
+    "dateLabel": "10/6/2026, 9:06:38 PM - 10/6/2026, 11:41:54 PM",
+    "url": "https://dj70oy70-cpu.github.io/Wvw/?report=20261006-210638-sc0o",
+    "summary": {
+      "borderlandsPct": 0.4782608695652174,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 24,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 20,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 2,
+          "color": "#ef4444"
+        }
       ],
-      "guild": {
-        "id": "DFCC36EA-31D3-EB11-81AC-95DFE50946EB",
-        "name": "Immortals of the Mîsts",
-        "tag": "IoM"
-      },
-      "dateStart": "2026-10-07T01:06:38.000Z",
-      "dateEnd": "2026-10-07T02:10:12.006Z",
-      "dateLabel": "10/6/2026, 9:06:38 PM - 10/6/2026, 10:10:12 PM",
-      "url": "https://dj70oy70-cpu.github.io/Wvw/?report=20261006-210638-dxpc",
-      "summary": {
-        "borderlandsPct": 0.4782608695652174,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 24,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 20,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 2,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 21,
-        "avgEnemySize": 38
-      }
-    },
-    {
-      "id": "20260929-212200-frdy",
-      "title": "Warsworn Immortal",
-      "commanders": [
-        "Warsworn Immortal"
-      ],
-      "guild": {
-        "id": "DFCC36EA-31D3-EB11-81AC-95DFE50946EB",
-        "name": "Immortals of the Mîsts",
-        "tag": "IoM"
-      },
-      "dateStart": "2026-09-30T01:22:00.000Z",
-      "dateEnd": "2026-09-30T02:25:10.254Z",
-      "dateLabel": "9/29/2026, 9:22:00 PM - 9/29/2026, 10:25:10 PM",
-      "url": "https://dj70oy70-cpu.github.io/Wvw/?report=20260929-212200-frdy",
-      "summary": {
-        "borderlandsPct": 0.06818181818181818,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 41,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 3,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 20,
-        "avgEnemySize": 53
-      }
+      "avgSquadSize": 21,
+      "avgEnemySize": 38
     }
-  ]
-}
+  },
+  {
+    "id": "20260929-212200-frdy",
+    "title": "Warsworn Immortal",
+    "commanders": [
+      "Warsworn Immortal"
+    ],
+    "guild": {
+      "id": "DFCC36EA-31D3-EB11-81AC-95DFE50946EB",
+      "name": "Immortals of the Mîsts",
+      "tag": "IoM"
+    },
+    "dateStart": "2026-09-30T01:22:00.000Z",
+    "dateEnd": "2026-09-30T02:25:10.254Z",
+    "dateLabel": "9/29/2026, 9:22:00 PM - 9/29/2026, 10:25:10 PM",
+    "url": "https://dj70oy70-cpu.github.io/Wvw/?report=20260929-212200-frdy",
+    "summary": {
+      "borderlandsPct": 0.06818181818181818,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 41,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 3,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 20,
+      "avgEnemySize": 53
+    }
+  }
+]
