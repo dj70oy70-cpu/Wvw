@@ -9,36 +9,6 @@
   },
   "entries": [
     {
-      "id": "20261007-002125-5wf6",
-      "title": "Grim Devastation, Muscles Molasses",
-      "commanders": [
-        "Grim Devastation",
-        "Muscles Molasses"
-      ],
-      "guild": {
-        "id": "3B12FC43-44C1-F111-BB22-1249AB9AC125",
-        "name": "Casual Butt Fart",
-        "tag": "CF"
-      },
-      "dateStart": "2026-10-07T04:21:25.000Z",
-      "dateEnd": "2026-10-07T05:13:37.301Z",
-      "dateLabel": "10/7/2026, 12:21:25 AM - 10/7/2026, 1:13:37 AM",
-      "url": "https://dj70oy70-cpu.github.io/Wvw/?report=20261007-002125-5wf6",
-      "publishedBy": "dj70oy70-cpu",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 20,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 22,
-        "avgEnemySize": 21
-      }
-    },
-    {
       "id": "20261006-210638-sc0o",
       "title": "Perfect D Vadium, Warsworn Immortal",
       "commanders": [
