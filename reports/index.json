@@ -9,6 +9,46 @@
   },
   "entries": [
     {
+      "id": "20261009-235201-1tw1",
+      "title": "Molasses Muscles, Sféee",
+      "commanders": [
+        "Molasses Muscles",
+        "Sféee"
+      ],
+      "guild": {
+        "id": "551CDE6F-3FEC-4F9B-8C17-9223526A8827",
+        "name": "Fk Pushing",
+        "tag": "Ge"
+      },
+      "dateStart": "2026-10-10T03:52:01.000Z",
+      "dateEnd": "2026-10-10T06:48:29.339Z",
+      "dateLabel": "10/9/2026, 11:52:01 PM - 10/10/2026, 2:48:29 AM",
+      "url": "https://dj70oy70-cpu.github.io/Wvw/?report=20261009-235201-1tw1",
+      "publishedBy": "dj70oy70-cpu",
+      "summary": {
+        "borderlandsPct": 0.10256410256410256,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 35,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20261006-210638-sc0o",
       "title": "Perfect D Vadium, Warsworn Immortal",
       "commanders": [
