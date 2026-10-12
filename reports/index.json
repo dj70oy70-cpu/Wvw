@@ -5,9 +5,48 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.1"
+    "version": "3.22.6"
   },
   "entries": [
+    {
+      "id": "20261011-211642-1ppx",
+      "title": "Warsworn Immortal",
+      "commanders": [
+        "Warsworn Immortal"
+      ],
+      "guild": {
+        "id": "DFCC36EA-31D3-EB11-81AC-95DFE50946EB",
+        "name": "Immortals of the Mîsts",
+        "tag": "IoM"
+      },
+      "dateStart": "2026-10-12T01:16:42.000Z",
+      "dateEnd": "2026-10-12T02:05:15.273Z",
+      "dateLabel": "10/11/2026, 9:16:42 PM - 10/11/2026, 10:05:15 PM",
+      "url": "https://dj70oy70-cpu.github.io/Wvw/?report=20261011-211642-1ppx",
+      "publishedBy": "dj70oy70-cpu",
+      "summary": {
+        "borderlandsPct": 0.7954545454545454,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 13,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 35
+      }
+    },
     {
       "id": "20261009-235201-1tw1",
       "title": "Molasses Muscles, Sféee",
