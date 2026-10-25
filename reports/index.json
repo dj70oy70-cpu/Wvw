@@ -9,6 +9,41 @@
   },
   "entries": [
     {
+      "id": "20261024-211057-hndc",
+      "title": "Alacka Sam, Daddy Diza",
+      "commanders": [
+        "Alacka Sam",
+        "Daddy Diza"
+      ],
+      "guild": {
+        "id": "DFCC36EA-31D3-EB11-81AC-95DFE50946EB",
+        "name": "Immortals of the Mîsts",
+        "tag": "IoM"
+      },
+      "dateStart": "2026-10-25T01:10:57.000Z",
+      "dateEnd": "2026-10-25T01:55:02.268Z",
+      "dateLabel": "10/24/2026, 9:10:57 PM - 10/24/2026, 9:55:02 PM",
+      "url": "https://dj70oy70-cpu.github.io/Wvw/?report=20261024-211057-hndc",
+      "publishedBy": "dj70oy70-cpu",
+      "summary": {
+        "borderlandsPct": 0.04878048780487805,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 39,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20261020-210134-mz3l",
       "title": "Warsworn Immortal",
       "commanders": [
